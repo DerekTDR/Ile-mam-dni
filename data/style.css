@@ -1,0 +1,10 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    size: 150%;
+}
+#data, #btn, #wynik {
+    font-family: 'Comic Sans MS';
+    font-size: large;
+}
